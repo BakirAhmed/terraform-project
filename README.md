@@ -3,7 +3,7 @@
 
 ## 📐 Architecture
 
-![Schéma d'architecture AWS](./images/architecture.png)
+![Schéma d'architecture AWS](./images/architecture.jpg)
 
 ### Composants déployés
 
