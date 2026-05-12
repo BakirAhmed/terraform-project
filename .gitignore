@@ -1,0 +1,13 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+override.tf
+*.pem
+*.key
+terraform.tfvars
+
+# OS files
+.DS_Store
+Thumbs.db

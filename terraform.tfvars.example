@@ -1,0 +1,14 @@
+# AWS Region 
+aws_region = "us-east-1"
+
+# VPC CIDR
+vpc_cidr = "192.168.0.0/16"
+
+# Nom du projet (préfixe pour toutes les ressources)
+project_name = "terraform-project"
+
+# Type d'instance
+instance_type = "t2.micro"
+
+# KEY PAIR
+key_name = "votre-key-pair"
