@@ -1,7 +1,7 @@
 # ☁️ Infrastructure AWS scalable avec Terraform
 
 
-## 📐 Architecture
+## Architecture
 
 ![Schéma d'architecture AWS](./images/architecture.jpg)
 
